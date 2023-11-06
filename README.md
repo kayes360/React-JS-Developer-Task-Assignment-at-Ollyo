@@ -1,8 +1,6 @@
-# React + Vite
+# drag-sortable-image-gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Application starting guide-
+1.Clone this project.
+2.In the project directory open cmd and run 'yarn' 
+3.Type 'yarn dev' and test the application in browser using the link from cmd.
